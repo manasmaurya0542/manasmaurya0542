@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate and experienced Flutter developer with over 2 years of hands-on experience in building cross-platform mobile applications. My skills extend beyond Flutter to include Firebase, Node.js, and I'm currently expanding my expertise in AWS services.
 
 ## 🚀 Technologies & Tools
+<img src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  <img src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  <img src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">  <img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">  <img src= "https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 - **Flutter:** Crafting beautiful and efficient mobile applications.
 - **Firebase:** Leveraging real-time databases and authentication.

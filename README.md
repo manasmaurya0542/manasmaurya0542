@@ -18,7 +18,7 @@ I'm currently diving deeper into the vast world of AWS services, aiming to enhan
 
 - **Frontend:** Flutter
 - **Backend:** Node.js
-- **Database:** Firebase
+- **Database:** Firebase, SQL
 - **Cloud:** AWS (ongoing)
 
 ## 📫 Let's Connect
